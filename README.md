@@ -1,2 +1,0 @@
-# Ourcicddemo
-first AWS project
